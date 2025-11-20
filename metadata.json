@@ -1,0 +1,5 @@
+{
+  "name": "Python vs Bugs: Code Defense",
+  "description": "A tower defense game where you use Python syntax constructs to defend your codebase from bugs, errors, and legacy code zombies.",
+  "requestFramePermissions": []
+}
